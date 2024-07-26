@@ -1,0 +1,22 @@
+,Year_Released,Movie,Length(_in_minutes),RT_Score,IMDb_Score,Metacritic_Score,Opening_Weekend_(in_millions),Worldwide_Gross_(in_millions),Domestic_Gross_,International_Gross,Domestic_%,International_%,Production_Budget,Academy_Nominated,Academy_Won,Director(s)
+0,1995,Toy Story,81,100,8.3,96,29.14,365.3,192.5,172.8,0.53,0.47,30.0,3,0,John Lasseter
+1,1998,A Bug's Life,96,92,7.2,78,0.3,363.1,162.8,200.3,0.45,0.55,45.0,1,0,"John Lasseter, Andrew Stanton"
+2,1999,Toy Story 2,92,100,7.9,88,0.3,511.4,245.9,265.5,0.48,0.52,90.0,1,0,"John Lasseter, Ash Brannon, Lee Unkrich"
+3,2001,"Monsters, Inc.",90,96,8.1,79,62.6,560.5,290.14,270.36,0.52,0.48,115.0,3,1,"Pete Docter, David Silverman, Lee Unkrich"
+4,2003,Finding Nemo,104,99,8.2,90,70.3,936.1,380.5,555.6,0.41,0.59,94.0,4,1,"Andrew Stanton, Lee Unkrich"
+5,2004,The Incredibles,115,97,8.0,90,70.5,631.4,261.4,370.0,0.41,0.59,92.0,4,2,Brad Bird
+6,2006,Cars,116,75,7.2,73,60.1,462.0,244.1,217.9,0.53,0.47,70.0,2,0,"John Lasseter, Joe Ranft"
+7,2007,Ratatouille,111,96,8.1,96,47.0,626.6,206.4,420.2,0.33,0.67,150.0,5,1,"Bard Bird, Jan Pinkava"
+8,2008,WALL-E,97,96,8.4,95,63.1,532.5,223.8,308.7,0.42,0.58,180.0,6,1,Andrew Stanton
+9,2009,Up,96,98,8.3,88,68.1,731.3,293.0,438.3,0.4,0.6,175.0,5,2,"Pete Docter, Bob Peterson"
+10,2010,Toy Story 3,103,99,8.4,92,110.3,1068.9,30.7,1038.2,0.03,0.97,200.0,5,2,Lee Unkrich
+11,2011,Cars 2,113,39,6.2,57,66.3,560.2,415.0,145.2,0.74,0.26,200.0,0,0,"John Lasseter, Brad Lewis"
+12,2012,Brave,100,79,7.1,69,66.3,554.6,191.5,363.1,0.35,0.65,185.0,1,1,"Mark Andrews, Brenda Chapman, Steve Purcell"
+13,2013,Monsters University,107,80,7.2,65,82.4,743.6,268.5,475.1,0.36,0.64,200.0,0,0,Dan Scanlon
+14,2015,Inside Out,102,98,8.1,94,90.4,850.6,356.5,494.1,0.42,0.58,175.0,1,1,"Pete Docter, Ronnie del Carmen"
+15,2015,The Good Dinosaur,93,75,6.7,66,39.2,333.8,123.0,210.8,0.37,0.63,187.5,0,0,Peter Sohn
+16,2016,Finding Dory,97,94,7.2,77,135.0,1025.0,486.3,538.7,0.47,0.53,200.0,0,0,"Andrew Stanton, Angus Maclane"
+17,2017,Cars 3,102,69,6.7,59,53.7,383.5,152.9,230.6,0.4,0.6,175.0,0,0,Brian Fee
+18,2017,Coco,105,97,8.4,81,50.1,796.5,210.5,586.0,0.26,0.74,175.0,0,2,"Lee Unkrich, Adrian Molina"
+19,2018,Increadibles 2,118,93,7.5,80,182.7,1242.8,608.6,634.2,0.49,0.51,200.0,1,0,Brad Bird
+20,2019,Toy Story 4,100,97,7.7,84,121.0,1072.8,434.0,638.8,0.4,0.6,200.0,1,1,Josh Cooley
