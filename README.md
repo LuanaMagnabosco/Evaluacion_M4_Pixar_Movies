@@ -10,11 +10,11 @@ El proyecto está dividido en las siguientes secciones:
 
 1. **Análisis de Presupuesto y Taquilla:** Comparativa entre el presupuesto invertido en las películas de Pixar y la recaudación obtenida a nivel mundial. Se han analizado tanto la taquilla doméstica como la internacional.
 
-2. **Premios Óscar:** Evaluación de las nominaciones y premios Óscar ganados por las películas de Pixar, destacando los logros más significativos del estudio en la industria cinematográfica.
+2. **Premios Óscar:** Evaluación de las nominaciones y premios Óscar ganados por las películas de Pixar, destacando los logros más significativos del estudio en la industria cinematográfica y comparando con otros Estudios.
 
 3. **Comparación con Otros Estudios:** Comparativa de la recaudación de Pixar con otros estudios de animación para entender su posición en el mercado y su impacto en la industria.
 
-4. **Crítica:** Análisis de las calificaciones recibidas por las películas de Pixar en plataformas como IMDb, Rotten Tomatoes y Metacritic, permitiendo una visión completa de la recepción crítica de sus producciones.
+4. **Crítica:** Análisis de las calificaciones recibidas por las películas de Pixar en plataformas como Rotten Tomatoes y Metacritic, permitiendo una visión completa de la recepción crítica de sus producciones.
 
 ## Tecnologías Utilizadas
 
